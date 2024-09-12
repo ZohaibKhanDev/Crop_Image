@@ -2,11 +2,11 @@
 ## Overview
 
 ## 🚀 Key Features
-- **  **
-- **  ** 
-- **  **
-- **  **
-- **  **
+- ** Crop images with adjustable cropping area **
+- ** Zoom and pan functionality for fine adjustments ** 
+- ** Supports both square and freeform aspect ratios **
+- ** Preview the cropped image before saving **
+- ** Simple and user-friendly interface **
 
 ## 🤝 Connect with Me
 Let's chat about potential projects, job opportunities, or any other collaboration! Feel free to connect with me through the following channels:
